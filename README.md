@@ -2,6 +2,8 @@
 Aprendiendo Arte digital
 
 Modelo 1
+  
+  Hacer una caja
 
 Modelo 2
 
