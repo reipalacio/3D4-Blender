@@ -1,2 +1,0 @@
-# Vertex
-Aprendiendo Arte digital
