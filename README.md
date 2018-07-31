@@ -1,7 +1,8 @@
 # Vertex
 Aprendiendo Arte digital
 
-Modelo 1
+Cubo 1
 
-Modelo 2
+Cubo 2
 
+Cubo 3
